@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **z.bournand@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://zanderbournand.com/resume)
+- 📄 Know about my experiences -> [Resume](https://zanderbournand.com/resume)
 
 - ⚡ Fun fact **I grew up in France until I was 15 and moved to the US**
 
