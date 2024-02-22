@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences: [**Resume**](https://zanderbournand.com/resume)
 
+- 👀 Also quite active on [**Gitlab**](https://gitlab.com/ZanderBournand)
+
 - ⚡ Fun fact **I grew up in France until I was 15 and moved to the US**
 
 <h3 align="left">Connect with me:</h3>
