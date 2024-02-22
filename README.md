@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zander</h1>
 <h3 align="center">A passionate full-stack engineer with a tendency to work w/ backend technologies</h3>
 
-- 🔭 I’m currently working on [Clubfinity](https://zanderbournand.com/clubfinity)
+- 🔭 I’m currently working on [**Clubfinity**](https://zanderbournand.com/clubfinity)
 
 - 🌱 I’m currently learning **Go, GraphQL and Kafka**
 
-- 👨‍💻 All of my projects are available at [https://zanderbournand.com/](https://zanderbournand.com/)
+- 👨‍💻 All of my projects are available at [**https://zanderbournand.com/**](https://zanderbournand.com/)
 
 - 📫 How to reach me **z.bournand@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://zanderbournand.com/resume)
+- 📄 Know about my experiences: [**Resume**](https://zanderbournand.com/resume)
 
 - ⚡ Fun fact **I grew up in France until I was 15 and moved to the US**
 
