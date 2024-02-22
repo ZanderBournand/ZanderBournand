@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zander</h1>
 <h3 align="center">A passionate full-stack engineer with a tendency to work w/ backend technologies</h3>
 
-- 🔭 I’m currently working on [ListenNext](https://zanderbournand.com/listennext)
+- 🔭 I’m currently working on [Clubfinity](https://zanderbournand.com/clubfinity)
 
 - 🌱 I’m currently learning **Go, GraphQL and Kafka**
-
-- 🤝 I’m looking for help with [Clubfinity](https://zanderbournand.com/clubfinity)
 
 - 👨‍💻 All of my projects are available at [https://zanderbournand.com/](https://zanderbournand.com/)
 
